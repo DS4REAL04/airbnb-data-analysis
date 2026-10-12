@@ -32,6 +32,15 @@ The analysis follows a robust multi-stage pipeline combining SQL, Python, and Po
 * **Visualization & Business Intelligence:** Power BI (DAX Measures, Data Modeling, Interactive Dashboards)
 
 ---
+## 📊 Dashboard Preview
+
+[Page 1 - Overview](dashboard_1.png)
+
+[Page 2 - Rooms and construction polices](dashboard_2.png)
+
+[Page 3 - Price & Location Analysis](dashboard_3.png)
+
+
 
 ## 📂 Repository Structure
 
