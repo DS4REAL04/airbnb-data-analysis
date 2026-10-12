@@ -34,11 +34,11 @@ The analysis follows a robust multi-stage pipeline combining SQL, Python, and Po
 ---
 ## 📊 Dashboard Preview
 
-[Page 1 - Overview](dashboard_1.png)
+[Page 1 - Overview](Dashboard_1.png)
 
-[Page 2 - Rooms and construction polices](dashboard_2.png)
+[Page 2 - Rooms and construction polices](Dashboard_2.png)
 
-[Page 3 - Price & Location Analysis](dashboard_3.png)
+[Page 3 - Price & Location Analysis](Dashboard_3.png)
 
 
 
